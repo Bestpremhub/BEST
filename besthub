@@ -1,0 +1,30 @@
+local SlayerzLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/x2-Neptune/SlayerzUI/main/BetaLibrary.script"))()
+local Name = "BEST HUB by Best Trial" -- Name Hub
+local Description = " https://discord.com/invite/cDvBuG8V    - API" -- Description in script
+local Image = "rbxassetid://16587996851" -- Image Id
+local Color = Color3.fromRGB(255, 0, 0) -- Color in UI
+-- Create Window
+local Window = SlayerzLibrary:Window(Name,Description,Image,Color)
+
+local Tab1 = Window:Tab("Tab 1") -- Tab Name
+local Section = Tab1:Section("- NO KEY 🔐 -","Left")
+Section:Label("NO KEY 🔐 ")
+Section:Button("BEST HUB")))()",function()
+
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/Gamer144roblox/Pro-hub-/main/Best%20Hub%20Verison%204.0
+end)
+
+Section:Button("FRIES HUB",function()
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Frieshup/FriesHup/main/Update1'))()
+end)
+
+Section:Button("FAIFAO HUB",function()
+
+loadstring(game:HttpGet"https://raw.githubusercontent.com/PNguyen0199/Script/main/Fai-Fao-Ver2.lua")()
+
+end)
+
+Section:Button("REDZ HUB",function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/BloxFruits/main/redz9999"))()    
+end)
